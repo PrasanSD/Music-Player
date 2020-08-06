@@ -62,7 +62,7 @@ export default {
         {
           title: "Ek Zindagi",
           movie: "Angrezi Medium",
-          src: require("./assets/Ek Zindagi - Angrezi Medium.mp3"),
+          src: require(""),
         },
       ],
       player: new Audio(),
